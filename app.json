@@ -1,7 +1,7 @@
 {
-  "name": "torrent-aio-bot",
-  "description": "All in one bot for torrenting",
-  "repository": "https://github.com/patheticGeek/torrent-aio-bot",
+  "name": "Magnet 2 Link",
+  "description": "Telegram: Magnet 2 Link Bot",
+  "repository": "https://github.com/creatorsuniquerckz/Magnet-2-Link",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
